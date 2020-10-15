@@ -1,29 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
+My name is Tim Mardesen, and this is my GitHub Profile!
+Please visit my [portfolio website](https://timmay54.github.io/First-HTML-Project/) for more occupational information.
 
-**timmay54/timmay54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Bachelor's - CS: 
+I graduated in 2019 with my Bachelor's degree in computer science with a emphasis in cyber security. In October of 2020, I passed the CompTIA Security+ 501 exam (badge).
+- 🌱 Master's - CS:
+ I’m currently working towards my Master's of Computer Science, which will be completed in May of 2021
+- ⚡ Fun fact: 
+Coca-Cola is **much** better than Pepsi!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+# [Portfolio Website](https://timmay54.github.io/First-HTML-Project/)
 
 <!--img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME" -->
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=timmay54)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/timmay54) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/timmay54)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/timmay54/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/timmay54/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/timmay54)
+[<img src="https://img.shields.io/badge/DockerHub-%231DA1F2.svg?&style=for-the-badge&logo=Docker&logoColor=white" />](https://hub.docker.com/u/timmay545) [<img src="https://img.shields.io/badge/GITHUB-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/timmay54)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/timothy-mardesen/)
