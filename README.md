@@ -15,6 +15,6 @@ Coca-Cola is **much** better than Pepsi!
 <!--img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME" -->
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=timmay54)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=timmay54&theme=dark&show_icons=true)
 
 [<img src="https://img.shields.io/badge/DockerHub-%231DA1F2.svg?&style=for-the-badge&logo=Docker&logoColor=white" />](https://hub.docker.com/u/timmay545) [<img src="https://img.shields.io/badge/GITHUB-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/timmay54)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/timothy-mardesen/)
