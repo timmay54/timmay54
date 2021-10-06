@@ -3,11 +3,24 @@
 My name is Tim Mardesen, and this is my GitHub Profile!
 Please visit my [portfolio website](https://timmay54.github.io/First-HTML-Project/) for more occupational information.
 
+## Accolades:
+- 🏫 Master's - CS:
+I completed my Master's of Computer Science through Western Illinois University; graduated in May of 2021.
+
+- 📜 CompTIA Security+:
+In October of 2020, I passed the CompTIA Security+ 501 exam (badge).
+
 - 🔭 Bachelor's - CS: 
-I graduated in 2019 with my Bachelor's degree in computer science with a emphasis in cyber security. In October of 2020, I passed the CompTIA Security+ 501 exam (badge).
-- 🌱 Master's - CS:
- I’m currently working towards my Master's of Computer Science, which will be completed in May of 2021
-- ⚡ Fun fact: 
+I graduated in 2019 with my Bachelor's degree in computer science with a emphasis in cyber security. 
+ 
+ ## Reccomended Frameworks/Tools:
+* LibGDX - Java game development framework
+* TeamCity - JetBrains' CI/CD product
+* Grafana - Dashboards
+* Traefik - reverse proxy to host your own services
+* Springboot - easy RESTful api creation
+ 
+- ⚡ Fun fact:
 Coca-Cola is **much** better than Pepsi!
 
 # [Portfolio Website](https://timmay54.github.io/First-HTML-Project/)
